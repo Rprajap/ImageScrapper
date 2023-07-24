@@ -1,0 +1,17 @@
+beautifulsoup4
+bs4
+certifi
+Click
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+opencv
+Pillow
+pymongo
+six
+soupsieve
+Werkzeug
+selenium
